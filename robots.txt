@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /404.html
+Allow: /app-ads.txt
+Allow: /ads.txt
+Allow: /
